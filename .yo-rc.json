@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "pnpjsoperations",
+    "libraryId": "37a1f78b-8573-4c8f-aae3-11c8f268fd0b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "pnpjsoperations",
+    "solutionShortDescription": "pnpjsoperations description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
